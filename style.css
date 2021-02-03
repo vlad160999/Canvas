@@ -1,0 +1,13 @@
+#canvas{
+    display: block;
+    margin: 0 auto;
+    
+}
+
+.newYear{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 45px;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
